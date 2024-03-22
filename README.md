@@ -6,7 +6,7 @@ Adjust paths in the fzf scripts to your liking.
 
 ----
 
-Bind single-use (for instance, in `xfce4-keyboard-settings`) scripts (clip.sh, uploadfile.sh, uploadimage.sh, uploadtext.sh) using:
+Bind (for instance, in `xfce4-keyboard-settings`) single-use scripts (clip.sh, uploadfile.sh, uploadimage.sh, uploadtext.sh) using:
 
 `bash ./script.sh`
 
